@@ -1,4 +1,4 @@
-# Stoic-Wallpaper-Generator
+# Stoic Wallpaper Generator
 
 This program selects a random excerpt from Marcus Aurelius "meditations" and adds it as the desktop backround. 
 Use the windows installer to Automaticly add the program to autostart. 
