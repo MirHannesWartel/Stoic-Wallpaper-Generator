@@ -6,6 +6,6 @@ The program does not require python to be installed.
 This is my first program im releasing to the public. There should be alot of room for improvment.  
 So please, report any bugs you come across, and take a look at the sourc code located in the "lib/AutoMediditationsWallpaper" folder
 
-
+Download link to windows installer(here from  this github repository): https://github.com/MirHannesWartel/Stoic-Wallpaper-Generator/raw/main/windows_installer.zip
 
 ![Image description](https://raw.githubusercontent.com/MirHannesWartel/Stoic-Wallpaper-Generator/main/program_sample.png)
