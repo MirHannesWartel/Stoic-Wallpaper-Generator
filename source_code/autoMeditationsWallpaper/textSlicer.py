@@ -96,18 +96,4 @@ def find_lines(txt):
             if start_line <= position < end_line:
                 text.append(line)
 
-        # for line in myfile:
-
-        # if len(line) > 1:
-        #     first_word = line.split()[0]
-        #     if first_word == int_to_roman(end_string) + ".":
-        #
-        #         break
-        #     elif first_word == int_to_roman(start_line) + ".":
-        #
-        #         text.append(line.rstrip('\n'))
-        #     elif len(text) != 0:
-        #
-        #         text.append(line.rstrip('\n'))
-
     textToImage(text, excerpts[randomExcerpt][0])
